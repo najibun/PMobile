@@ -16,6 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.najibun.student.pertemuan6.PhoneDetailActivity"
+            android:parentActivityName="com.najibun.student.pertemuan6.MainActivity">
+
+        </activity>
     </application>
 
 </manifest>
